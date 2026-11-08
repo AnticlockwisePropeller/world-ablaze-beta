@@ -675,6 +675,11 @@ technologies = {
 			eng_amphibious_mechanized_equipment_1
 		}
 
+		path = {
+			leads_to_tech = eng_amphibious_2
+			research_cost_coeff = 1
+		}
+
 		research_cost = 2.5
 		start_year = 1943
 
@@ -704,6 +709,45 @@ technologies = {
 			modifier = {
 				factor = 30
 				date > "1945.1.1"
+			}
+		}
+	}
+
+	eng_amphibious_2 = {
+
+		enable_equipments = {
+			eng_amphibious_mechanized_equipment_2
+		}
+
+		research_cost = 2.5
+		start_year = 1945
+
+		folder = {
+			name = eng_armour_folder
+			position = { x = -7 y = 20 }
+		}
+
+		categories = {
+			major_technologies
+			cat_mechanized_equipment
+		}
+
+		ai_will_do = {
+			factor = 4
+
+			modifier = {
+				factor = 30
+				date > "1945.1.1"
+			}
+
+			modifier = {
+				factor = 30
+				date > "1946.1.1"
+			}
+
+			modifier = {
+				factor = 30
+				date > "1947.1.1"
 			}
 		}
 	}
