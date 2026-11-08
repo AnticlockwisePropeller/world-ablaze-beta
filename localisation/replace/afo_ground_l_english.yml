@@ -2093,9 +2093,13 @@
     eng_mechanized_equipment_6_short:0 "FV432"
     eng_mechanized_equipment_6_desc:0 "The FV432 improves on armour protection over the Saracen and speed. It is also able to carry more men."
 
-    eng_amphibious_mechanized_equipment_1:0 "Terrapin"
+    eng_amphibious_mechanized_equipment_1:0 "Terrapin Mk I"
     eng_amphibious_mechanized_equipment_1_short:0 "Terrapin"
     eng_amphibious_mechanized_equipment_1_desc:0 "As an amphibious mechanized vehicle, the only purpose of this vehicle is to land divisions during amphibious assaults. It has very low combat stats and moves relatively slowly when on land."
+
+    eng_amphibious_mechanized_equipment_2:0 "Terrapin Mk II"
+    eng_amphibious_mechanized_equipment_2_short:0 "Terrapin Mk II"
+    eng_amphibious_mechanized_equipment_2_desc:0 "The Mark II Terrapin introduces a number of improvements, such as moving the driver's position to an enclosed forward cabin, increased carrying capacity and stability on the water."
 
     eng_mechanized_artillery_equipment_1:0 "Loyd Gun Carrier 18pdr"
     eng_mechanized_artillery_equipment_1_short:0 "Loyd GC"
