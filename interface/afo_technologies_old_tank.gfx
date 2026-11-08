@@ -2727,6 +2727,11 @@ spriteTypes = {
 	}
 
 	SpriteType = {
+		name = "GFX_eng_amphibious_2_medium"
+		texturefile = "gfx/interface/technologies/eng_amphibious_mechanized_infantry_2.dds"
+	}
+
+	SpriteType = {
 		name = "GFX_eng_light_1_medium"
 		texturefile = "gfx/interface/technologies/eng_light_1.dds"
 	}
